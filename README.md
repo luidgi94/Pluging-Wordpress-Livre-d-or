@@ -6,8 +6,8 @@ If you want to try out the project just follow those steps:
 
 _Creation du plugin:
 On crée un dossier avec le nom du plugin dans le dossier wp-content/plugin 
-et on verifie si il existe dans la communauté wordpress en faisant
-une recherche pour eviter des conflit lors de mise à jour.
+et on vérifie si il existe dans la communauté wordpress en faisant
+une recherche pour éviter des conflits lors de mise à jour.
 
 Activation du plugin: 
 
